@@ -1,8 +1,7 @@
 define([
     'jquery',
     'Magento_Checkout/js/action/get-totals',
-    'Magento_Customer/js/customer-data',
-    '!domReady'
+    'Magento_Customer/js/customer-data'
 ], function ($, getTotalsAction, customerData) {
     $('body').on('change', 'input[name$="[qty]"]', function(){
         var form = $('form#form-validate');
