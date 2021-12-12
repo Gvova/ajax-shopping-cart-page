@@ -1,5 +1,5 @@
 {
-  "name": "maxmage/ajax-shopping-cart-page",
+  "name": "gvova/ajax-shopping-cart-page",
   "description": "Module for Magento 2 module which provide a possibility to disable customer registration on frontend",
   "require": {
     "php": "^7.1",
